@@ -1,5 +1,5 @@
 #pragma once
-//Chao cac ban :))
+
 #include <SDL.h>
 #include <glew.h>
 #include <string>
